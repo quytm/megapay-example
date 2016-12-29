@@ -2,7 +2,7 @@
 
 Megapay Example
 
-Library: `megapay-request` 
+Download library: [megapay-request](https://github.com/quytm/megapay-example/blob/master/source_library/app/out/megapay-request.jar)
 
 
 ## 1. Tree
