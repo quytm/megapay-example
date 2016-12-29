@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Megapay Example</string>
+    <string name="txt_top_up">Nạp thẻ</string>
+    <string name="txt_type_card">Loại thẻ</string>
+    <string name="txt_serial">Serial</string>
+    <string name="txt_code_card">Mã thẻ</string>
+    <string name="txt_pay">Thanh toán</string>
+    <string name="txt_serial_hint">Nhập mã serial đằng sau thẻ</string>
+    <string name="txt_code_card_hint">Nhập mã số sau lớp bạc bóng</string>
+    <string name="txt_reset">Reset</string>
+
+
+    <string-array name="list_type_card">
+        <item><font color="gray">Chọn loại thẻ …</font></item>
+        <item>Thẻ Viettel</item>
+        <item>Thẻ Mobifone</item>
+        <item>Thẻ Vinaphone</item>
+        <item>Thẻ Megacard</item>
+        <item>Thẻ Gate FPT</item>
+        <item>Thẻ ZING</item>
+        <item>Thẻ Oncash</item>
+    </string-array>
+
+</resources>
